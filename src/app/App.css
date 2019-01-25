@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  background-color: #091219;
+  color: white;
+}
+
+.App-header {
+  background-color:#091219;
+  height: 160px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.App-ticker {
+  font-size: medium;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  justify-content: center;
+  align-items: left;
+  margin: 50px;
+}
+
+button {
+  color: #091219;
+  border-radius: 10px;
+  background-color: white;
+  border-width: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 10px;
+}
